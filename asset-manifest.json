@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f745515.css",
+    "main.js": "/static/js/main.f0e524b9.js",
+    "static/media/banner-about.jpg": "/static/media/banner-about.be33cd35fc995b84e18a.jpg",
+    "static/media/banner-home.jpg": "/static/media/banner-home.e181dbc58084d2c509ac.jpg",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.a281f04d4c8926e7dea1.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.94bb495fba6077f669ed.ttf",
+    "static/media/logo-white.svg": "/static/media/logo-white.56674c90b8d7d463888f3f72ce5094ae.svg",
+    "static/media/logo.svg": "/static/media/logo.ac38b36ec692f2f5731bc84c1ac2030e.svg",
+    "static/media/star-grey.svg": "/static/media/star-grey.68fd8a1ead5375bd59bb6ae0b633ffd3.svg",
+    "static/media/star-pink.svg": "/static/media/star-pink.30b8963e66a47777ef47296f505567be.svg",
+    "index.html": "/index.html",
+    "static/media/display-chevron.svg": "/static/media/display-chevron.2315f85335b3b6805ba7666d56cbc6aa.svg",
+    "static/media/galery-chevron.svg": "/static/media/galery-chevron.19918a1634b1441a25ae0b50e6b1f85b.svg",
+    "main.8f745515.css.map": "/static/css/main.8f745515.css.map",
+    "main.f0e524b9.js.map": "/static/js/main.f0e524b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f745515.css",
+    "static/js/main.f0e524b9.js"
+  ]
+}
